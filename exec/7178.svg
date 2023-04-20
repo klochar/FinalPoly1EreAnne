@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 1152 576">
+<text x="76" y="36" font-family="arial" font-size="25" fill="blue"> Section 03 -- Equipe 7178 -- Bot101</text>
+<text x="96" y="564" font-family="arial" font-size="20" fill="blue">AIRE : 0 pouces carres</text>
+<rect x="96" y="48" width="960" height="480" stroke="black" stroke-width="1" fill="white"/>
+<rect x="191" y="123" width="5" height="5"/>
+<rect x="191" y="233" width="5" height="5"/>
+<rect x="191" y="343" width="5" height="5"/>
+<rect x="191" y="453" width="5" height="5"/>
+<rect x="301" y="123" width="5" height="5"/>
+<rect x="301" y="233" width="5" height="5"/>
+<rect x="301" y="343" width="5" height="5"/>
+<rect x="301" y="453" width="5" height="5"/>
+<rect x="411" y="123" width="5" height="5"/>
+<rect x="411" y="233" width="5" height="5"/>
+<rect x="411" y="343" width="5" height="5"/>
+<rect x="411" y="453" width="5" height="5"/>
+<rect x="521" y="123" width="5" height="5"/>
+<rect x="521" y="233" width="5" height="5"/>
+<rect x="521" y="343" width="5" height="5"/>
+<rect x="521" y="453" width="5" height="5"/>
+<rect x="631" y="123" width="5" height="5"/>
+<rect x="631" y="233" width="5" height="5"/>
+<rect x="631" y="343" width="5" height="5"/>
+<rect x="631" y="453" width="5" height="5"/>
+<rect x="741" y="123" width="5" height="5"/>
+<rect x="741" y="233" width="5" height="5"/>
+<rect x="741" y="343" width="5" height="5"/>
+<rect x="741" y="453" width="5" height="5"/>
+<rect x="851" y="123" width="5" height="5"/>
+<rect x="851" y="233" width="5" height="5"/>
+<rect x="851" y="343" width="5" height="5"/>
+<rect x="851" y="453" width="5" height="5"/>
+<rect x="961" y="123" width="5" height="5"/>
+<rect x="961" y="233" width="5" height="5"/>
+<rect x="961" y="343" width="5" height="5"/>
+<rect x="961" y="453" width="5" height="5"/>
+<rect x="191" y="453" width="5" height="5" fill="red"/>
+<circle cx="191" cy="453" r="10" stroke="black" stroke-width="2" fill="gray" />
+<circle cx="191" cy="343" r="10" stroke="black" stroke-width="2" fill="gray" />
+</svg>
